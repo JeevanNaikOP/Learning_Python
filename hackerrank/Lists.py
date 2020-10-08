@@ -1,6 +1,6 @@
 if __name__ == '__main__':
     l = []
-    n=int(input()
+    n=int(input())
     for _ in range(n):
         s = input().split()
         cmd = s[0]
